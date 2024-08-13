@@ -4,3 +4,4 @@ httpd:latest
 nginx:latest
 busybox:latest
 busybox:1.28
+centos:7
