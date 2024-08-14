@@ -5,3 +5,4 @@ nginx:latest
 busybox:latest
 busybox:1.28
 centos:9.4
+centos:latest
