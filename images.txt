@@ -4,4 +4,4 @@ httpd:latest
 nginx:latest
 busybox:latest
 centos:latest
-nfs:latest
+alpine:latest
