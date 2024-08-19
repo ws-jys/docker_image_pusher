@@ -5,3 +5,4 @@ nginx:latest
 busybox:latest
 centos:latest
 alpine:latest
+registry：2
